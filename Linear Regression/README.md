@@ -25,7 +25,7 @@ x1, x2, ..., xn are the input variables
 b0 is the y-intercept
 b1, b2, ..., bn are the coefficients for each input variable
 ## Loss Function 
-The loss is the error in our predicted value of m and c. Our goal is to minimize this error to obtain the most accurate value of m and b. We will use the mean square error function 
+The loss is the error in our predicted value of m and b. Our goal is to minimize this error to obtain the most accurate value of m and b. We will use the mean square error function 
 
 ![image](https://github.com/silvanajackoub/ML-Supervised-Learning/assets/99747641/f2179d0f-eca8-4845-b473-09261bed4879)
 ## Gradient Descent
