@@ -12,4 +12,4 @@ K-fold cross-validation is a technique used in machine learning to evaluate the 
 - Can be sensitive to the choice of k.
 - Can be biased if the data is not randomly sampled.
 
-![image](https://github.com/silvanajackoub/ML-Supervised-Learning/assets/99747641/40eced63-6451-4178-9e25-d3dd31185f3c)
+![K-fold](K-fold.png)
