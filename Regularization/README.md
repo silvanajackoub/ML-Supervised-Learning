@@ -18,5 +18,4 @@ There are several types of regularization techniques commonly used in machine le
 
 - L2 Regularization (Ridge): L2 regularization adds a penalty term proportional to the square of the coefficients. It encourages the model to distribute the impact of different features more evenly, reducing the influence of outliers and making the model more robust.
 
-![image](https://github.com/silvanajackoub/ML-Supervised-Learning/assets/99747641/87df1c88-d846-4fa7-80ae-80189cadb2de)
-
+![Regularization](Regularization.png)
