@@ -9,5 +9,4 @@ Adaline, which stands for Adaptive Linear Neuron, is also a linear binary classi
 ##
 The difference between the 2 algorithms is that the Perceptron uses the result of the threshold function g(z) to learn the model weights while Adaline uses the net input z (where the activation function is linear) to learn the model coefficients as illustrated below
 
-![image](https://github.com/silvanajackoub/ML-Supervised-Learning/assets/99747641/102e1e00-8773-4579-a813-5f55bbd2d004)
-
+![Perceptron VS Adaline](Perceptron_Adaline.png)
