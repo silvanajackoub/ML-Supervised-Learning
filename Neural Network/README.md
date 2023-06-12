@@ -19,4 +19,4 @@ Feedforward refers to the process of passing input data through the neural netwo
 ## Applications
 Neural networks have many applications in various fields, including image recognition, natural language processing, and speech recognition. They have also been used in finance, healthcare, and transportation.
 
-![image](https://github.com/silvanajackoub/ML-Supervised-Learning/assets/99747641/eef39c12-3a08-4ef9-a6c9-9ecf63585511)
+![NeuralNetwork](NeuralNetwork.png)
