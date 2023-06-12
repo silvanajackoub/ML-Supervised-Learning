@@ -1,5 +1,5 @@
 ## Neural Network Summary
-A neural network is a type of machine learning model that is inspired by the structure and function of the human brain. It consists of a network of interconnected nodes, called neurons, that work together to process and interpret input data.
+A neural network is a type of machine learning model that is inspired by the structure and function of the human brain. It consists of a network of interconnected nodes, called neurons that work together to process and interpret input data.
 
 ## Architecture
 The architecture of a neural network typically consists of an input layer, one or more hidden layers, and an output layer. Each layer is composed of multiple neurons, and each neuron is connected to other neurons in adjacent layers.
