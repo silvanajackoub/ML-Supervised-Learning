@@ -27,10 +27,11 @@ b1, b2, ..., bn are the coefficients for each input variable
 ## Loss Function 
 The loss is the error in our predicted value of m and b. Our goal is to minimize this error to obtain the most accurate value of m and b. We will use the mean square error function 
 
-![image](https://github.com/silvanajackoub/ML-Supervised-Learning/assets/99747641/f2179d0f-eca8-4845-b473-09261bed4879)
+![linear regression](lossfunction.png)
+
 ## Gradient Descent
 Gradient descent is an optimization algorithm used to minimize the loss function in linear regression. It works by iteratively adjusting the values of m and b to find the values that minimize the loss.
 
 The basic idea behind gradient descent is to calculate the gradient (i.e. derivative) of the loss function with respect to each parameter (m and b) and update the values of those parameters in the opposite direction of the gradient. This process is repeated until convergence (i.e. until the loss stops decreasing).
 
-![image](https://github.com/silvanajackoub/ML-Supervised-Learning/assets/99747641/4f23c79e-9f9b-420a-8fb8-f143e0cb6ad5)
+![Gradient Descent](GD.png)
